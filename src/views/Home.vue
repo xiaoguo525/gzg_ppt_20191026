@@ -11,7 +11,7 @@
 			</swiper-slide>
 			<swiper-slide>
 				<div class="item2">
-					2
+					我是第2个页面
 				</div>
 			</swiper-slide>
 			<swiper-slide>
